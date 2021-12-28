@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafestegu
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on Voice Assistant Problems
+- 💞️ I’m looking to collaborate on Data Engineering topics
 - 📫 How to reach me manlike_zeros.0d@icloud.com
 
 <!---
